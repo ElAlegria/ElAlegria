@@ -1,6 +1,8 @@
 ### Hi, I'm Cristian  😁🖥👨🏽‍💻
+
+## About me in code 
 ```js
-const aboutMe = {
+const Cristian = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS],
    Metodologias:[BEM],
