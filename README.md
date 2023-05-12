@@ -26,11 +26,11 @@ const Cristian = {
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ElAlegria&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <a href="https://github.com/ElAlegria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAlegria&theme=radical&hide=glsl,python" />
+  <img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAlegria&theme=radical&hide=glsl,python" />
 </a>
+ <img align="auto" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## you can find me 🌏:
    [![Linkedin Badge](https://img.shields.io/badge/-Cristian_Alegria-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elalegria)](https://www.linkedin.com/in/elalegria)
