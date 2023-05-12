@@ -19,6 +19,7 @@ const aboutMe = {
    challenge: "Esto trabajando arduamente en mejorar dia tras dia",
 };
 ```
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ElAlegria&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ## you can find me 🌏:
   - [Linkeding](www.linkedin.com/in/elalegria)
 <!--
