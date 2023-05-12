@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Cristian  😁🖥👨🏽‍💻
 ```js
 const aboutMe = {
    pronouns: "he" | "him",
