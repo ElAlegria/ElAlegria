@@ -20,9 +20,7 @@ const aboutMe = {
 };
 ```
 ## you can find me 🌏:
-  - [Linkeding](www.linkedin.com/in/ElAlegria
-)
-  - [Discord()
+  - [Linkeding](www.linkedin.com/in/elalegria)
 <!--
 **ElAlegria/ElAlegria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
