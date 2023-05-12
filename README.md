@@ -33,6 +33,7 @@ const Cristian = {
 </a>
 
 ## you can find me 🌏:
+***
    [![Linkedin Badge](https://img.shields.io/badge/-Cristian_Alegria-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elalegria)](https://www.linkedin.com/in/elalegria)
    [![Gmail Badge](https://img.shields.io/badge/-abrahama.32v@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abrahama.32v@gmail.com)](mailto:abrahama.32v@gmail.com)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@__abdullahalrifat95-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_abdullahalrifat95)](https://medium.com/@_abdullahalrifat95)
