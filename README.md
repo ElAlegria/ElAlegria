@@ -19,6 +19,10 @@ const aboutMe = {
    challenge: "Esto trabajando arduamente en mejorar dia tras dia",
 };
 ```
+## you can find me 🌏:
+  - [Linkeding](www.linkedin.com/in/ElAlegria
+)
+  - [Discord()
 <!--
 **ElAlegria/ElAlegria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
